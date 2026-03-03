@@ -1,7 +1,7 @@
 import access_control
 
 CONTROL_NUM = 4
-FAVORITE_ARTIST = "LINKIN PARK"
+FAVORITE_ARTIST = "FRANK OCEAN"
 threshold = CONTROL_NUM * 5 # 20
 
 @access_control.audit_log
